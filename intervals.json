@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T17:38:54.506827",
+  "generated_at": "2026-05-10T20:09:25.471588",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -575,6 +575,27 @@
           "zone": 1,
           "training_load": 52.92971,
           "decoupling": -16.879871
+        }
+      ]
+    },
+    {
+      "activity_id": "i147033365",
+      "date": "2026-05-10",
+      "type": "Ride",
+      "name": "Calella Maantiepy\u00f6r\u00e4ily",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 12708,
+          "avg_power": 93,
+          "max_power": 488,
+          "avg_hr": 128,
+          "max_hr": 154,
+          "avg_cadence": 72.82193,
+          "zone": 2,
+          "training_load": 140.85185,
+          "decoupling": 5.7531
         }
       ]
     }
