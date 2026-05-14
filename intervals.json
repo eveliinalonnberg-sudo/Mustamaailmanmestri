@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T08:09:45.195820",
+  "generated_at": "2026-05-14T16:20:32.613279",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -644,6 +644,27 @@
           "zone": 1,
           "training_load": 16.212334,
           "decoupling": 17.108854
+        }
+      ]
+    },
+    {
+      "activity_id": "i148214161",
+      "date": "2026-05-14",
+      "type": "Ride",
+      "name": "Mont-Ras Maantiepy\u00f6r\u00e4ily",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 10851,
+          "avg_power": 84,
+          "max_power": 633,
+          "avg_hr": 121,
+          "max_hr": 151,
+          "avg_cadence": 73.55195,
+          "zone": 1,
+          "training_load": 85.51835,
+          "decoupling": -1.3405211
         }
       ]
     }
