@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T16:30:02.549920",
+  "generated_at": "2026-05-15T20:41:44.600931",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -665,6 +665,25 @@
           "zone": 1,
           "training_load": 85.51835,
           "decoupling": -1.3405211
+        }
+      ]
+    },
+    {
+      "activity_id": "i148577738",
+      "date": "2026-05-15",
+      "type": "VirtualRide",
+      "name": "Sis\u00e4py\u00f6r\u00e4ily",
+      "interval_summary": [
+        "1x 55m28s 144bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "3328s@144bpm",
+          "duration_secs": 3328,
+          "avg_hr": 144,
+          "max_hr": 184,
+          "zone": 2
         }
       ]
     }
