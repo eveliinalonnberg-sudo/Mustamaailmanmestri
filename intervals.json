@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T11:32:06.245355",
+  "generated_at": "2026-05-16T14:45:36.977621",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -684,6 +684,26 @@
           "avg_hr": 144,
           "max_hr": 184,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i148807764",
+      "date": "2026-05-16",
+      "type": "Ride",
+      "name": "Lloret de Mar Maantiepy\u00f6r\u00e4ily",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 14801,
+          "avg_power": 85,
+          "max_power": 516,
+          "avg_hr": 130,
+          "max_hr": 162,
+          "avg_cadence": 66.94641,
+          "zone": 1,
+          "training_load": 153.82466
         }
       ]
     }
