@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T11:56:25.459835",
+  "generated_at": "2026-05-21T18:28:54.477259",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -662,6 +662,27 @@
           "avg_cadence": 66.94641,
           "zone": 1,
           "training_load": 153.82466
+        }
+      ]
+    },
+    {
+      "activity_id": "i150367336",
+      "date": "2026-05-21",
+      "type": "Ride",
+      "name": "Oslo Maantiepy\u00f6r\u00e4ily",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 4291,
+          "avg_power": 73,
+          "max_power": 338,
+          "avg_hr": 118,
+          "max_hr": 152,
+          "avg_cadence": 76.14582,
+          "zone": 1,
+          "training_load": 35.053482,
+          "decoupling": -1.6749028
         }
       ]
     }
