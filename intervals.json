@@ -1,31 +1,10 @@
 {
-  "generated_at": "2026-05-24T23:41:51.891872",
+  "generated_at": "2026-05-25T12:47:35.790441",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i147033365",
-      "date": "2026-05-10",
-      "type": "Ride",
-      "name": "Calella Maantiepy\u00f6r\u00e4ily",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 12708,
-          "avg_power": 93,
-          "max_power": 488,
-          "avg_hr": 128,
-          "max_hr": 154,
-          "avg_cadence": 72.82193,
-          "zone": 2,
-          "training_load": 140.85185,
-          "decoupling": 5.7531
-        }
-      ]
-    },
     {
       "activity_id": "i147501670",
       "date": "2026-05-12",
