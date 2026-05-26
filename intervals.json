@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T22:18:26.852071",
+  "generated_at": "2026-05-26T19:29:09.435238",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -206,6 +206,27 @@
           "max_hr": 170,
           "avg_cadence": 71.891495,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i151672544",
+      "date": "2026-05-26",
+      "type": "Ride",
+      "name": "Helsinki Maantiepy\u00f6r\u00e4ily",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 4809,
+          "avg_power": 91,
+          "max_power": 591,
+          "avg_hr": 133,
+          "max_hr": 161,
+          "avg_cadence": 80.38974,
+          "zone": 1,
+          "training_load": 51.765152,
+          "decoupling": -8.401783
         }
       ]
     }
