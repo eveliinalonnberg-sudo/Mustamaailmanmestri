@@ -1,58 +1,10 @@
 {
-  "generated_at": "2026-05-26T23:43:24.800859",
+  "generated_at": "2026-05-27T12:02:44.528932",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i147501670",
-      "date": "2026-05-12",
-      "type": "Ride",
-      "name": "Calonge - 3x10 min sweet spot",
-      "interval_summary": [
-        "1x 4m8s 149w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 3845,
-          "avg_power": 67,
-          "max_power": 252,
-          "avg_hr": 145,
-          "max_hr": 179,
-          "avg_cadence": 77.55044,
-          "zone": 1,
-          "training_load": 33.541195,
-          "decoupling": -13.061294
-        },
-        {
-          "type": "WORK",
-          "label": "248s@149w81rpm",
-          "duration_secs": 248,
-          "avg_power": 149,
-          "max_power": 239,
-          "avg_hr": 164,
-          "max_hr": 166,
-          "avg_cadence": 80.78226,
-          "zone": 3,
-          "training_load": 5.639204,
-          "decoupling": 5.077543
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 2057,
-          "avg_power": 67,
-          "max_power": 280,
-          "avg_hr": 127,
-          "max_hr": 171,
-          "avg_cadence": 62.951782,
-          "zone": 1,
-          "training_load": 16.212334,
-          "decoupling": 17.108854
-        }
-      ]
-    },
     {
       "activity_id": "i148214161",
       "date": "2026-05-14",
