@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T16:15:31.691627",
+  "generated_at": "2026-06-18T18:40:32.172960",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -728,6 +728,54 @@
           "zone": 2,
           "training_load": 37.335564,
           "decoupling": -6.9003687
+        }
+      ]
+    },
+    {
+      "activity_id": "i158401607",
+      "date": "2026-06-18",
+      "type": "Ride",
+      "name": "Espoo Maantiepy\u00f6r\u00e4ily",
+      "interval_summary": [
+        "1x 11s 269w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2293,
+          "avg_power": 76,
+          "max_power": 623,
+          "avg_hr": 119,
+          "max_hr": 141,
+          "avg_cadence": 68.03801,
+          "zone": 1,
+          "training_load": 24.345112,
+          "decoupling": -2.6531775
+        },
+        {
+          "type": "WORK",
+          "label": "11s@269w63rpm",
+          "duration_secs": 11,
+          "avg_power": 269,
+          "max_power": 299,
+          "avg_hr": 125,
+          "max_hr": 138,
+          "avg_cadence": 62.727272,
+          "zone": 7,
+          "training_load": 0.16113552,
+          "decoupling": 9.840557
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3713,
+          "avg_power": 80,
+          "max_power": 469,
+          "avg_hr": 125,
+          "max_hr": 161,
+          "avg_cadence": 70.89039,
+          "zone": 1,
+          "training_load": 40.350765,
+          "decoupling": -4.066594
         }
       ]
     }
